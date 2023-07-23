@@ -1,6 +1,6 @@
-# SUPERSTORE ANALYSIS PROJECT
+# ANALYSIS OF SUPERSTORE PROJECT 
 
-# Superstore Analysis using Python in Jupyter Notebook and Power BI
+# Analysis of Superstore using Python in Jupyter Notebook and Power BI
 
 
 This repository contains a comprehensive analysis of the Superstore dataset using Python in Jupyter Notebook and Power BI. The Superstore dataset represents fictional sales data for a retail superstore, and the analysis aims to gain insights into various aspects of the store's performance.
